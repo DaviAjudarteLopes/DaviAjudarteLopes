@@ -1,8 +1,8 @@
-## Olá! Me chamo Alexandre Oliveira
+## Olá! Me chamo Davi Ajudarte Lopes
 
 - 🔭 Atualmente procuro pelo meu primeiro estágio como Dev
 - 📖 Cursando Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando C#
+- 🌱 Estudando C# e JS
 
 <div>
   <a href="https://github.com/DaviAjudarteLopes">
