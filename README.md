@@ -11,7 +11,7 @@
 </div>
     
 <div style="display: inline_block"><br>
-  <img align="center" alt="Ale-Csharp" height="30" width="40" src=""/>
+ 
 </div>
 
 ##
